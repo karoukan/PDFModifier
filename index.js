@@ -45,4 +45,4 @@ const modifications = [
     // Ajouter d'autres modifications ici
 ];
   
-modifyPdf('cerfa_12672-03-2.pdf', modifications);
+modifyPdf('doc.pdf', modifications);
